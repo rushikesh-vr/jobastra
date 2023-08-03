@@ -1,0 +1,218 @@
+.navbar-logo{
+    width: 150px;
+    
+}
+
+#links{
+    font-weight: 700;
+    color: #4f5b97;
+    margin-left: 15px;
+}
+.login-button{
+    width:100px;
+    height: 35px;
+    border-width: 1px;
+    border-radius: 17px;
+    background-color: transparent;
+    border-color: grey;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    color: #4f5b97;
+    
+}
+
+.signup-button{
+    margin-left: 15px;
+    margin-right: 5px;
+    width:100px;
+    height: 35px;
+    border-width: 0px;
+    border-radius: 17px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    background-image: linear-gradient(to right ,#4f5b97,#67a9dd );
+}
+
+
+
+.banner-img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.banner-btn{
+    width:140px;
+    height: 50px;
+    border-width: 0px;
+    border-radius: 25px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    background-image: linear-gradient(to right ,#4f5b97,#67a9dd );
+
+}
+
+.banner-heading{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    font-size: 48px;
+}
+
+.banner-para{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+}
+
+.bnr-margin{
+    margin-top: 100px !important;
+}
+
+.banner{
+    background-image: url(bannerbg.jpg);
+    padding-bottom: 80px;
+    padding-top: 50px;
+}
+
+
+.ourservices{
+    background-color:#f4f8fd;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.ourservices-heading{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    font-size: 48px;
+}
+
+.ourser-btn{
+     width:140px;
+    height: 50px;
+    border-width: 0px;
+    border-radius: 25px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    background-image: linear-gradient(to right ,#4f5b97,#67a9dd );
+
+}
+
+.ourserimg{
+    width: 100%;
+    border-radius: 10px;
+
+}
+
+.oursercardcont{
+    padding-top: 40px;
+    
+}
+
+.ourserheading{
+    font-size: 24px;
+    padding-top: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+}
+
+.ourserpara{
+    font-size: 18px;
+    padding-top: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+}
+
+.ourserlink{
+    text-decoration: none;
+}
+
+.footer1{
+    background-color: #b7c4e2;
+}  
+
+.footer2{
+    background-color:#a7bae8;
+   
+}
+
+.footer-logo{
+    width: 100%;
+}
+
+.fa-brands{
+    padding: 10px;
+    font-size: 24px;
+    color: black;
+}
+
+.footer-list{
+    list-style-type: none;
+    padding-left: 0px;
+    
+}
+
+.footer-card-heading{
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.footer-link{
+    text-decoration: none;
+    color:rgb(29, 27, 27);
+    font-size: 24px;
+}    
+
+
+.testimonials-heading{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    font-size: 48px;
+}
+
+.testimonials-para{
+    font-size: 18px;
+    padding-top: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+}
+
+.testimonials-button{
+    width:140px;
+    height: 50px;
+    border-width: 0px;
+    border-radius: 25px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    background-image: linear-gradient(to right ,#4f5b97,#67a9dd );
+}
+
+.testimonials-img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.abtcompany-heading{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    font-size: 48px;
+}
+
+.abtcompany{
+    background-color:#f4f8fd;
+}
+
+.brand-icons{
+    color: #4f5b97;
+    font-size: 50px ;
+    padding: 25px;
+}
+
