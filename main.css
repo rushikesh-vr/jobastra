@@ -216,3 +216,76 @@
     padding: 25px;
 }
 
+.wcu-heading1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    font-size: 42px;
+}
+
+.wcu-image{
+    width: 100%;
+    padding-top: 10px;
+   padding-bottom: 10px;
+}
+
+.wcu-heading2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+    font-size: 36px;
+    color: #4f5b97;
+}
+
+.hrline1{
+    
+    background-color:#4f5b97 ;
+    width: 15%;
+    height: 2px;
+}
+
+.wcu-para{
+    font-size: 18px;
+    color: rgb(101, 99, 99);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+.wcu-button2{
+    width:auto;
+    height: 32px;
+    border-width: 1px;
+    border-radius: 17px;
+    background-color: transparent;
+    border-color: grey;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    color: #4f5b97;
+    
+}
+
+.wcu-button1{
+   
+    width:auto;
+    height: 32px;
+    border-width: 0px;
+    border-radius: 17px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    background-image: linear-gradient(to right ,#4f5b97,#67a9dd );
+}
+
+.wcu-heading3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+    font-size: 36px;
+    color: #67a9dd;
+}
+
+.hrline2{
+    
+    background-color: #67a9dd ;
+    width: 15%;
+    height: 2px;
+}
